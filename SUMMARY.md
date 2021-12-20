@@ -10,6 +10,7 @@
   - [How to use autocomp.finance?](ecosystem/how-to-work.md)
   - [Fees Breakdown](ecosystem/vault-fee.md)
   - [Security & Risk](ecosystem/security-risk.md)
+  - [Contract Addresses](ecosystem/contract-addresses.md)
 
 ## Additional Resources
 
