@@ -13,3 +13,4 @@ The Auto Comp contracts deployed on Celo Network.
 - Stabilusd-celo: [0x821D47D9183B99d0CF2b9e23179bAB40e1a76B98](https://explorer.celo.org/address/0x821D47D9183B99d0CF2b9e23179bAB40e1a76B98)
 - SOURCE-mcUSD: [0x0ea231fc89A7D3D5Bf75e3ac423FD340EC155c7c](https://explorer.celo.org/address/0x0ea231fc89A7D3D5Bf75e3ac423FD340EC155c7c)
 - mcUSD-wBTC: [0x80666229E78165BFCbB7690DE4f3de50b9105a0A](https://explorer.celo.org/address/0x80666229E78165BFCbB7690DE4f3de50b9105a0A)
+- cUSD-USDC: [0xCA99D0cfc8b4f9881bdAB084542d58BF24Dd7657](https://explorer.celo.org/address/0xCA99D0cfc8b4f9881bdAB084542d58BF24Dd7657)

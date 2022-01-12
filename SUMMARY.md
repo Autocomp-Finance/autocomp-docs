@@ -15,5 +15,5 @@
 ## Additional Resources
 
 - [Github](https://github.com/Autocomp-Finance)
-- [Twitter](https://twitter.com/AutocompF)
-- [Discord](https://discord.gg/6TW3cKM3)
+- [Twitter](https://twitter.com/Autocomp_)
+- [Discord](https://discord.gg/EvzAVZ6REW)
