@@ -14,4 +14,4 @@ Autocomp finance offers complex strategies that are simple and intuitive for any
 
 The project is build in Celo chain eco system
 
-- Mobil compatability and low fee
+- Mobile compatability and low fee

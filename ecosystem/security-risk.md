@@ -6,5 +6,5 @@ As part of Autocomp long-term commitment to security and building trust within t
 Smart Contract Security & Risks
 Smart contracts are an innovative way for cryptocurrencies to interact with one another and with dApps (decentralised applications). However, due to the complexities that come with smart contracts, certain smart contracts may be prone to hacks.
 
-Impermanent loss happens when you provide liquidity to a liquidity pool, and the price of your deposited assets changes compared to when you deposited them. The bigger this change is, the more you are exposed to impermanent loss. In this case, the loss means less dollar value at the time of withdrawal than at the time of deposit.
+Impermanent loss happens when you provide liquidity to a liquidity pool, and the price of your deposited asset changes compared to when you deposited them. The bigger this change is, the more you are exposed to impermanent loss. In this case, the loss means less dollar value at the time of withdrawal than at the time of deposit.
 https://academy.binance.com/en/articles/impermanent-loss-explained
