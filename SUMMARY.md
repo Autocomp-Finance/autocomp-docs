@@ -9,7 +9,7 @@
 
 ## Tutorial
 
-- [Overview](tutorial/overview.md)
+- [Introduction](tutorial/overview.md)
 - [Deposit into vault](tutorial/select-vault.md)
 - [Swap token in DEX](tutorial/swap-tokens.md)
 - [Add liquidity](tutorial/add-liquidity.md)

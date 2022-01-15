@@ -1,16 +1,16 @@
 ##### Select Vault and deposit LP token
 
-###### 1. Take a look at the list of vaults
+1. Take a look at the list of vaults
 
-<img src="../.gitbook/assets/vaults/vault_list.png" width="600">
+<img src="../.gitbook/assets/vaults/vault_list.png" width="1000"  height="600">
 
-###### 2. Pick the vault that you want to deposit and expand
+2.  Pick the vault that you want to deposit and expand
 
-<img src="../.gitbook/assets/vaults/vault_select.png" width="600">
+<img src="../.gitbook/assets/vaults/vault_select.png" width="1000" height="600">
 
-###### 3. Click Add Liquidity to create LP token
+3.  Click Add Liquidity to create LP token
 
-<img src="../.gitbook/assets/vaults/add_liquidity.png" width="600">
+<img src="../.gitbook/assets/vaults/add_liquidity.png" width="1000" height="600">
 
 Add Liquidity will take you to the respective DEX to create the LP Token.
 
