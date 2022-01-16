@@ -1,7 +1,7 @@
 ###### Swapping Tokens
 
-Every DEX (Decentralized Exchange) allows for the token to be swapped from one token to another token
-Depending on the DEX used in the Vault go to the respective DEX to swap the token
+Every DEX (Decentralized Exchange) allows for the token to be swapped from one token to another token.
+Depending on the DEX used in the Vault please go to the respective DEX to swap the token.
 
 ### Ubeswap
 
