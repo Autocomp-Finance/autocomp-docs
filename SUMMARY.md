@@ -4,6 +4,7 @@
 
 - [Overview](README.md)
 - [Fees Breakdown](ecosystem/vault-fee.md)
+- [Security Audit](ecosystem/security-audit.md)
 - [Security & Risk](ecosystem/security-risk.md)
 - [Contract Addresses](ecosystem/contract-addresses.md)
 
